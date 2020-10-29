@@ -17,3 +17,5 @@ I made use of the following libraries and packages to write this code:
 5) Requests
 6) PrettyTable
 7) BeautifulSoup
+
+This can be packaged into a standalone exectuable, or integrated into another, larger covid dashboard that displays the data in a web/mobile application with a GUI.
